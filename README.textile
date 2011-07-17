@@ -1,0 +1,5 @@
+Having some fun with Rails 3
+
+* Will
+* Textile
+* Work?
